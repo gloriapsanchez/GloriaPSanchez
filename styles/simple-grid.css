@@ -42,7 +42,7 @@ body {
 /* ROOT FONT STYLES */
 
 * {
-  font-family: "Brush Script MT", cursive, fantasy;
+  font-family: "Lucida Console", "Courier New", monospace;
   color: #22333b;
   line-height: 1.5;
 }
